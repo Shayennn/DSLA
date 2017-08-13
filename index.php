@@ -49,7 +49,7 @@
 					</div>
 					<div class="form-group">
 						<label class="col-sm-2 control-label" for="writedate">วันที่เขียน</label>
-						<div class="col-sm-10"><input class="form-control" type="date" id="writedate" name="writedate" value="<?php echo date(" Y-m-d ");?>"></div>
+						<div class="col-sm-10"><input class="form-control" type="date" id="writedate" name="writedate" value="<?php echo date("Y-m-d");?>"></div>
 					</div>
 					<div class="form-group">
 						<label class="col-sm-2 control-label" for="">ประเภทลา</label>
@@ -82,11 +82,11 @@
 					</div>
 					<div class="form-group">
 						<label class="col-sm-2 control-label" for="lastart">ลาตั้งแต่วันที่</label>
-						<div class="col-sm-10"><input class="form-control" type="date" id="lastart" name="lastart" value="<?php echo date(" Y-m-d ", strtotime("-2 days "));?>"></div>
+						<div class="col-sm-10"><input class="form-control" type="date" id="lastart" name="lastart" value="<?php echo date("Y-m-d", strtotime("-2 days "));?>"></div>
 					</div>
 					<div class="form-group">
 						<label class="col-sm-2 control-label" for="laend">ถึงวันที่</label>
-						<div class="col-sm-10"><input class="form-control" type="date" id="laend" name="laend" value="<?php echo date(" Y-m-d ", strtotime("-1 days "));?>"></div>
+						<div class="col-sm-10"><input class="form-control" type="date" id="laend" name="laend" value="<?php echo date("Y-m-d", strtotime("-1 days "));?>"></div>
 					</div>
 					<div class="form-group">
 						<label class="col-sm-2 control-label" for="parent_comment">ความเห็นผู้ปกครอง</label>
