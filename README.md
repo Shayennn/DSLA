@@ -17,6 +17,7 @@ This project uses
  - [Bootstrap][2] V3.7.7
  - [jQuery][3] V3.2.1
  - [fontawesome][4]
+ 
 This project is free to use and free to modify under MIT License. :)
 
 [1]: http://www.f0nt.com/release/th-sarabun-new/
