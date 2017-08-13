@@ -12,7 +12,14 @@ So. DSLA is on leaving of demonstration school.
 
 ### License
 
-This project uses TH Sarabun New font from [SIPA][1] that is under GPL 2.0 + Font exception License.
+This project uses
+ - TH Sarabun New font from [SIPA][1] that is under GPL 2.0 + Font exception License
+ - [Bootstrap][2] V3.7.7
+ - [jQuery][3] V3.2.1
+ - [fontawesome][4]
 This project is free to use and free to modify under MIT License. :)
 
 [1]: http://www.f0nt.com/release/th-sarabun-new/
+[2]: https://github.com/twbs/bootstrap
+[3]: https://github.com/jquery/jquery
+[4]: https://github.com/FortAwesome/Font-Awesome
